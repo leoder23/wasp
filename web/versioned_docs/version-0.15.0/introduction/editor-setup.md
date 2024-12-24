@@ -1,5 +1,5 @@
 ---
-title: Editor Setup
+title: music festival
 slug: /editor-setup
 ---
 import TypescriptServerNote from '../_TypescriptServerNote.md'
